@@ -1,0 +1,154 @@
+---
+---
+
+.page-content {
+	max-width: 1048px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    .post-title {
+        text-align: center;
+        font-size: 175%;
+    }
+
+    .label-cc {
+        font-size: 80%;
+    }
+
+    .selected-row {
+        background-color: lightblue;
+    }
+
+    #top-panel {
+        padding: 0 18px;
+    }
+
+    .content-panel-header {
+        background-color: lightgrey;
+        cursor: pointer;
+        padding: 18px;
+        border-style: solid;
+        border-color: black;
+        border-width: 1px;
+        border-radius: 15px;
+        text-align: left;
+        outline: none;
+        font-size: 15px;
+        margin: 0px;
+        margin-bottom: 2px;
+        text-align: center;
+    }
+
+    .content-panel {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    tbody {
+        display: block;
+        overflow-y: scroll;
+    }
+
+    tbody, tr {
+        display: table;
+        width: 100%;
+    }
+
+    table {
+        width: 100%;
+        table-layout: fixed;
+        border: none;
+        border-collapse: separate;
+        margin: 0;
+        td {
+            border: none;
+            vertical-align: top;
+        }
+    }
+
+    .missing {
+        background-color: lightpink;
+    }
+
+    .app-view-table {
+        width: 100%;
+    }
+
+    .app-view-cell {
+        width: 50%;
+        padding: 18px;
+        &:nth-of-type(2) {
+            border-left-width: 1px;
+            border-left-style: solid;
+            border-left-color: black;
+        }
+    }
+
+    .app-view-label {
+        font-style: normal;
+        font-weight: bold;
+        padding-right: 5px;
+    }
+
+    .app-view-data {
+        font-style: normal;
+        font-weight: normal;
+    }
+
+    .app-view-data-para {
+        font-style: normal;
+        font-weight: normal;
+        padding-left: 0px;
+    }
+
+    .app-view-gray-box {
+        margin-left: 5px;
+        margin-right: 5px;
+        padding: 10px;
+        border-style: solid;
+        border-width: 1px;
+        text-align: left;
+        background-color: #efefef
+    }
+
+    .app-view-box-heading {
+        font-style: normal;
+        font-weight: bold;
+        text-align: center;
+        font-size: small;
+    }
+
+    .ing-table {
+        width: 100%;
+        border-width: 1px;
+        border-style: solid;
+        border-color: black;
+    }
+
+    .header-table {
+        width: 100%;
+    }
+
+    @media screen and (max-width:600px) {
+        margin: 1em;
+        padding: 0;
+
+        table {
+            border-collapse: collapse;
+        }
+        .app-view-table tr {    
+            display: table;
+            width:100%;
+        }               
+        .app-view-table td.app-view-cell {
+            display: table-row;
+            width: 100%;
+            margin: 0;
+            padding: 1em 0;
+
+            &:nth-of-type(2) {
+                border-left: none;
+            }
+        }           
+    }
+}

@@ -1,0 +1,26 @@
+---
+---
+
+html, body {
+    height: auto;
+    font-size: smaller;
+}
+
+.site-nav,
+.social-media-list {
+	display: none;
+}
+
+.site-header {
+    border-top: none;
+}
+
+#app-logo {
+    margin: 0.5rem 0;
+    max-height: 75px;
+    max-width: auto;
+}
+
+a {
+	color: #111 !important;
+}
