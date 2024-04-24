@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Note: requires pyyaml package.
-import os, glob, json, yaml, time
+import os, glob, json, yaml
 from datetime import datetime
 from os.path import exists
 
@@ -39,7 +39,7 @@ for label in data:
   del label['pollinators']
 
   key = ''.join(e for e in label['productName'] if e.isalnum())
-  
+
   # Generate front matter.
   front_matter = 'title: "' + label['productName'] + '"\n'
   front_matter = front_matter + 'modified: ' + run_date + '\n'
@@ -50,4 +50,3 @@ for label in data:
   out_string = front_matter_pre + front_matter + yaml.dump(label, default_flow_style=False) +front_matter_post
   f.write(out_string)
   f.close()
-  

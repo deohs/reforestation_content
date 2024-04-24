@@ -54,9 +54,9 @@
           <br>
           <span class="app-view-label">WA Special Local Needs (SLN):<br></span>
           <span class="app-view-data">
-            {% for link in page.picolSupplements %}
-            {% unless link.suppLink == '--' %}
-            <a href="{{- link.suppLink -}}" target="_blank">{{- link.suppLink -}}</a><br>
+            {% for link in page.picolSLNs %}
+            {% unless link.slnLink == '--' %}
+            <a href="{{- link.slnLink -}}" target="_blank">{{- link.slnLink -}}</a><br>
             {% endunless %}
             {% endfor %}
           </span>
