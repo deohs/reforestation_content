@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "ATRAZINE 4L HERBICIDE"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Atrazine
   ESP: Atrazina

@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Nufarm Polaris® SP Herbicide"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Isopropylamine salt of Imazapyr
   ESP: '"Isopropylamine salt of Imazapyr"'
@@ -246,8 +246,8 @@ signalWord:
   ENG: CAUTION
   ESP: "PRECAUCI\xD3N"
 sprayDrift:
-  ENG: 'SPRAY DRIFT REQUIREMENTS: SEE THE LABEL'
-  ESP: "REQUERIMIENTOS DE MANEJO DE LA DERIVA DE LA ASPERSI\xD3N: CONSULTE LA ETIQUETA"
+  ENG: '---'
+  ESP: ''
 statusCompleted: 'yes'
 statusEditing: 'no'
 statusReviewing: 'no'

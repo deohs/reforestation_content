@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Premium MSO Methylated Spray Oil"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Modified Vegetable (Seed) Oil and Alkyl Phenol Ethoxylate
   ESP: Aceite vegetal (semilla) modificado y "alkyl phenol ethoxylate"

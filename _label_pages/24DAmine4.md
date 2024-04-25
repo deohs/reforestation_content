@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "2,4-D Amine 4"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Dimethylamine salt of 2,4-Dichlorophenoxyacetic acid
   ESP: Dimethylamine salt of 2,4-Dichlorophenoxyacetic acid

@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Milestone® SPECIALTY HERBICIDE"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Triisopropanolammonium salt of 2-pyridine carboxylic acid, 4-amino-3,6-dichloro-
   ESP: '"Triisopropanolammonium salt of 2-pyridine carboxylic acid, 4-amino-3,6-dichloro-"'

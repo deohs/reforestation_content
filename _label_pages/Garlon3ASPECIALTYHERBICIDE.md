@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Garlon® 3A SPECIALTY HERBICIDE"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Triclopyr
   ESP: '"Triclopyr"'

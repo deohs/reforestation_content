@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Velpar® L vu"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Hexazinone
   ESP: '"Hexazinone"'

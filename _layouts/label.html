@@ -273,7 +273,7 @@
           </div>
           <br>
           {% endunless %}
-          <div class="app-view-label">[Directions for Use]: </div>
+          <div class="app-view-label">[Instrucciones de uso]: </div>
           <div class="app-view-data">{{ page.directions.ESP | newline_to_br | markdownify }}</div>
           <br>
           <table class="ing-table" style="border-collapse: collapse;">
@@ -534,7 +534,7 @@
           <div class="app-view-data">{{ page.safetyRecommendations.ENG | newline_to_br | markdownify }}</div>
         </td>
         <td class="app-view-cell">
-          <span class="app-view-label">Intervalo de acceso restringido (REI): </span>
+          <span class="app-view-label">Intervalo de entrada restringida (REI): </span>
           <span class="app-view-data" style="margin-left: 2px">{{ page.rei[0].ESP }}</span>
           <br>
           <br>
@@ -559,7 +559,7 @@
     </tbody>
   </table>
 </div>
-<div class="content-panel-header">Personal Protective Equipment and Pesticide Safety / Equipo de protección personal (EPP) y seguridad con los pesticidas</div>
+<div class="content-panel-header">Personal Protective Equipment and Pesticide Safety / Equipo de protección personal (PPE) y seguridad con los pesticidas</div>
 <div class="content-panel" id="collapsible-4">
   <table class="app-view-table">
     <tbody>
@@ -572,10 +572,10 @@
           <div class="app-view-data-para">{{ page.ppeEquip.ENG | newline_to_br | markdownify }}</div>
         </td>
         <td class="app-view-cell">
-          <div class="app-view-label">Uso agrícola: trabajadores que entren durante el intervalo de acceso restringido (EPP):</div>
+          <div class="app-view-label">Uso agrícola: trabajadores que entren durante el intervalo de entrada restringida (PPE):</div>
           <div class="app-view-data-para">{{ page.agUseReentryFull.ESP | newline_to_br | markdownify }}</div>
           <br>
-          <div class="app-view-label">EPP para manipuladores de pesticidas (mezcladores, cargadores y aplicadores):</div>
+          <div class="app-view-label">PPE para manipuladores de pesticidas (mezcladores, cargadores y aplicadores):</div>
           <div class="app-view-data-para">{{ page.ppeEquip.ESP | newline_to_br | markdownify }}</div>
         </td>
       </tr>

@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "ALLIGARE SFM EXTRA™"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Sulfometuron methyl
   ESP: '"Sulfometuron methyl"'

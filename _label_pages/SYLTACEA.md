@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "SYL-TAC-EA™"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Ethylated seed oil, Polyether-Polymethylsiloxane-Copolymer, and Polyoxyalkylene
     fatty ester

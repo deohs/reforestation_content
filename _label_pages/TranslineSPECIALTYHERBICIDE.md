@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Transline® SPECIALTY HERBICIDE"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Clopyralid
   ESP: '"Clopyralid"'

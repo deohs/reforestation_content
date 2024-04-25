@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Chopper® Gen2™ Herbicide"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Isopropylamine salt of imazapyr
   ESP: '"Isopropylamine salt of imazapyr"'
@@ -265,8 +265,8 @@ signalWord:
   ENG: "CAUTION/PRECAUCI\xD3N"
   ESP: "CAUTION/PRECAUCI\xD3N"
 sprayDrift:
-  ENG: 'Spray Drift Requirements: See the Label '
-  ESP: "Requerimientos de manejo de la deriva de la aspersi\xF3n: Consulte la etiqueta "
+  ENG: '---'
+  ESP: ''
 statusCompleted: 'yes'
 statusEditing: 'no'
 statusReviewing: 'no'

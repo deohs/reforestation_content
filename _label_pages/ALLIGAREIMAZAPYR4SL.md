@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "ALLIGARE IMAZAPYR 4 SL"
-modified: 2024-04-24 11:26:00
+modified: 2024-04-25 10:05:00
 activeIngredients:
 - ENG: Isopropylamine salt of Imazapyr*
   ESP: '"Isopropylamine salt of Imazapyr"'
