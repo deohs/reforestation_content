@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "SYL-TAC-EA™"
-modified: 2024-04-25 10:05:00
+modified: 2024-05-01 16:35:00
 activeIngredients:
 - ENG: Ethylated seed oil, Polyether-Polymethylsiloxane-Copolymer, and Polyoxyalkylene
     fatty ester
@@ -116,9 +116,9 @@ physHazards:
 picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/62727.pdf
 picolRegYr: WA-2025
 picolSLNs:
-- slnLink: '---'
+- slnLink: --
 picolSupplements:
-- suppLink: '---'
+- suppLink: --
 ppeEquip:
   ENG: '---'
   ESP: ''

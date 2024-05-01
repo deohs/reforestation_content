@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Accord® XRT II"
-modified: 2024-04-25 10:05:00
+modified: 2024-05-01 16:35:00
 activeIngredients:
 - ENG: Glyphosate
   ESP: Glifosato

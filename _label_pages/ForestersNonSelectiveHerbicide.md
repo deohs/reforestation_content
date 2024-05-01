@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Foresters'® Non-Selective Herbicide"
-modified: 2024-04-25 10:05:00
+modified: 2024-05-01 16:35:00
 activeIngredients:
 - ENG: Glyphosate
   ESP: Glifosato
@@ -224,9 +224,9 @@ physHazards:
 picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/70987.pdf
 picolRegYr: WA-2023, OR-2021
 picolSLNs:
-- slnLink: '---'
+- slnLink: --
 picolSupplements:
-- suppLink: '---'
+- suppLink: --
 ppeEquip:
   ENG: "Applicators and other handlers must wear long-sleeved shirt and long pants\
     \ and shoes plus socks. Discard clothing and other absorbent material that have\

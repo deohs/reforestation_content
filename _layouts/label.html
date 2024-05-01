@@ -40,6 +40,14 @@
           <span class="app-view-data"><a target="_blank" href="{{- page.picolLabelLink -}}">{{- page.picolLabelLink -}}</a>
           </span>
           {% endunless %}
+          {% assign supps = false %}
+          {% for link in page.picolSupplements %}
+            {% if link.suppLink != '--' %}
+              {% assign supps = true %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+          {% if supps %}
           <br>
           <br>
           <span class="app-view-label">PDF Supplemental Pesticide Label Links:<br></span>
@@ -50,6 +58,15 @@
             {% endunless %}
             {% endfor %}
           </span>
+          {% endif %}
+          {% assign slns = false %}
+          {% for link in page.picolSLNs %}
+            {% if link.slnLink != '--' %}
+              {% assign slns = true %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+          {% if slns %}
           <br>
           <br>
           <span class="app-view-label">WA Special Local Needs (SLN):<br></span>
@@ -60,6 +77,7 @@
             {% endunless %}
             {% endfor %}
           </span>
+          {% endif %}
           <br>
         </td>
       </tr>

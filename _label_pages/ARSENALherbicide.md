@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "ARSENAL® herbicide"
-modified: 2024-04-25 10:05:00
+modified: 2024-05-01 16:35:00
 activeIngredients:
 - ENG: Isopropylamine salt of imazapyr
   ESP: '"Isopropylamine salt of imazapyr"'
@@ -238,9 +238,9 @@ physHazards:
 picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/36741.pdf
 picolRegYr: WA-2024, OR-2022
 picolSLNs:
-- slnLink: '---'
+- slnLink: --
 picolSupplements:
-- suppLink: '---'
+- suppLink: --
 ppeEquip:
   ENG: "Some materials that are chemical-resistant to this product are listed below.\
     \ If you want more options, follow the instructions for Category A on an EPA chemical-resistance\

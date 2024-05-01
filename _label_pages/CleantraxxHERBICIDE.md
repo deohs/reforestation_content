@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Cleantraxx™ HERBICIDE"
-modified: 2024-04-25 10:05:00
+modified: 2024-05-01 16:35:00
 activeIngredients:
 - ENG: Penoxsulam
   ESP: '"Penoxsulam"'
@@ -192,7 +192,7 @@ picolSLNs:
 - slnLink: http://cru66.cahe.wsu.edu/~picol/pdf/OR/64572.pdf
 - slnLink: http://cru66.cahe.wsu.edu/~picol/pdf/OR/72547.pdf
 picolSupplements:
-- suppLink: '---'
+- suppLink: --
 ppeEquip:
   ENG: "Wear waterproof gloves \n\nMixers, loaders, and applicators using Engineering\
     \ Controls (see  Engineering Controls requirements below) must wear: \n\u2022\

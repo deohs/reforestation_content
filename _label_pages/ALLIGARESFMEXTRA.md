@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "ALLIGARE SFM EXTRA™"
-modified: 2024-04-25 10:05:00
+modified: 2024-05-01 16:35:00
 activeIngredients:
 - ENG: Sulfometuron methyl
   ESP: '"Sulfometuron methyl"'
@@ -214,9 +214,9 @@ physHazards:
 picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/49366.pdf
 picolRegYr: WA-2023, OR-2023
 picolSLNs:
-- slnLink: '---'
+- slnLink: --
 picolSupplements:
-- suppLink: '---'
+- suppLink: --
 ppeEquip:
   ENG: "All mixers, loaders, applicators, and other handlers must wear:  \n\u2022\
     \ Long-sleeved shirt and long pants\n\u2022 Shoes plus socks \n\nSee engineering\

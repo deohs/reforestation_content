@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "2,4-D Amine 4"
-modified: 2024-04-25 10:05:00
+modified: 2024-05-01 16:35:00
 activeIngredients:
 - ENG: Dimethylamine salt of 2,4-Dichlorophenoxyacetic acid
   ESP: Dimethylamine salt of 2,4-Dichlorophenoxyacetic acid
@@ -267,9 +267,9 @@ physHazards:
 picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/67915.pdf
 picolRegYr: WA-2024, OR-2022
 picolSLNs:
-- slnLink: '-'
+- slnLink: --
 picolSupplements:
-- suppLink: '-'
+- suppLink: --
 ppeEquip:
   ENG: "All mixers, loaders, applicators, flaggers and other handlers must wear: \n\
     \ \u2022 Protective eyewear (goggles, face shield, or safety glasses) \n\u2022\
