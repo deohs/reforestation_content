@@ -69,7 +69,7 @@
           {% if slns %}
           <br>
           <br>
-          <span class="app-view-label">WA Special Local Needs (SLN):<br></span>
+          <span class="app-view-label">WA/OR Special Local Needs (SLN):<br></span>
           <span class="app-view-data">
             {% for link in page.picolSLNs %}
             {% unless link.slnLink == '--' %}
@@ -271,7 +271,7 @@
           <br>
           {% if page.restricted == "yes" %}
           <div class="app-view-gray-box">
-            <div class="app-view-box-heading" style="text-transform: uppercase; font-size: larger;">Restricted Use Pesticide</div>
+            <div class="app-view-box-heading" style="text-transform: uppercase; font-size: larger;">Pesticida De Uso Restringido</div>
             <br>
             <div class="app-view-box-heading" style="font-size: normal">{{ page.restrictedAdditional.ESP | newline_to_br | markdownify }}</div>
           </div>
@@ -291,7 +291,7 @@
           </div>
           <br>
           {% endunless %}
-          <div class="app-view-label">[Instrucciones de uso]: </div>
+          <div class="app-view-label">Instrucciones de uso: </div>
           <div class="app-view-data">{{ page.directions.ESP | newline_to_br | markdownify }}</div>
           <br>
           <table class="ing-table" style="border-collapse: collapse;">
