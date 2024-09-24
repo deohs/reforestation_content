@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "ARSENAL® herbicide"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Isopropylamine salt of imazapyr
   ESP: '"Isopropylamine salt of imazapyr"'
@@ -235,7 +235,7 @@ physHazards:
     \ de acero sin revestimiento (excepto acero inoxidable) puede provocar corrosi\xF3\
     n y fallas en la parte expuesta. El mantenimiento de un revestimiento org\xE1\
     nico (pintura) puede prevenir la corrosi\xF3n. "
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/36741.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/36741
 picolRegYr: WA-2024, OR-2022
 picolSLNs:
 - slnLink: --

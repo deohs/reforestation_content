@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "ALLIGARE IMAZAPYR 4 SL"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Isopropylamine salt of Imazapyr*
   ESP: '"Isopropylamine salt of Imazapyr"'
@@ -243,7 +243,7 @@ physHazards:
     \ almacene o aplique Alligare Imazapyr 4 SL o las soluciones de Alligare Imazapyr\
     \ 4 SL en envases o recipientes de acero sin revestimiento (excepto los de acero\
     \ inoxidable) o en tanques de aspersi\xF3n."
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/52240.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/52240
 picolRegYr: WA-2023, OR-2023
 picolSLNs:
 - slnLink: --

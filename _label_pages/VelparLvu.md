@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Velpar® L vu"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Hexazinone
   ESP: '"Hexazinone"'
@@ -195,7 +195,7 @@ physHazards:
   ENG: 'FLAMMABLE. Keep away from heat, sparks,  and open flame. Keep container closed. '
   ESP: "INFLAMABLE. Mant\xE9ngalo alejado del calor, chispas o flama abierta. Mantenga\
     \ el recipiente o envase cerrado. "
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/63520.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/63520
 picolRegYr: WA-2022, OR-2020
 picolSLNs:
 - slnLink: --

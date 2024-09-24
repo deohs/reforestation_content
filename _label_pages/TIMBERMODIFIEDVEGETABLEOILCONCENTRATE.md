@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "TIMBER MODIFIED VEGETABLE OIL CONCENTRATE"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Methyl soyate; Polyethylene glycol mono(branched p-nonylphenyl) ether
   ESP: '"Methyl soyate; Polyethylene glycol mono(branched p-nonylphenyl) ether"'
@@ -108,7 +108,7 @@ phi:
 physHazards:
   ENG: '---'
   ESP: ''
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/72496.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/72496
 picolRegYr: WA-2025
 picolSLNs:
 - slnLink: --

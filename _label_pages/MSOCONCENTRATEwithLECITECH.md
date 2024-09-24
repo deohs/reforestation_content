@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "MSO® CONCENTRATE with LECI-TECH"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Methylated vegetable oil, alcohol ethoxylate, phosphatidylcholine
   ESP: '"Methylated vegetable oil, alcohol ethoxylate, phosphatidylcholine"'
@@ -117,7 +117,7 @@ phi:
 physHazards:
   ENG: '---'
   ESP: ''
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/48583.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/48583
 picolRegYr: WA-2023
 picolSLNs:
 - slnLink: --

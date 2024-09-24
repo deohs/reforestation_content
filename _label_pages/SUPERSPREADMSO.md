@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "SUPER SPREAD® MSO"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Methyl Soyate, Nonylphenol Ethoxylate
   ESP: '"Methyl Soyate, Nonylphenol Ethoxylate"'
@@ -103,7 +103,7 @@ phi:
 physHazards:
   ENG: '---'
   ESP: ''
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/43066.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/43066
 picolRegYr: WA-2025, OR-2024
 picolSLNs:
 - slnLink: --

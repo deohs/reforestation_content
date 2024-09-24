@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Oust® XP HERBICIDE"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Sulfometuron-methyl
   ESP: '"Sulfometuron-methyl"'
@@ -218,7 +218,7 @@ phi:
 physHazards:
   ENG: --
   ESP: ''
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/63513.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/63513
 picolRegYr: WA-2024, OR-2020
 picolSLNs:
 - slnLink: --

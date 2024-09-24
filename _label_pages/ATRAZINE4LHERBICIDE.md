@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "ATRAZINE 4L HERBICIDE"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Atrazine
   ESP: Atrazina
@@ -305,7 +305,7 @@ phi:
 physHazards:
   ENG: --
   ESP: ''
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/5754.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/5754
 picolRegYr: WA-2023, OR-2022
 picolSLNs:
 - slnLink: --

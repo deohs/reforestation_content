@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Drexel® Atrazine 4L Herbicide"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Atrazine
   ESP: Atrazina
@@ -326,7 +326,7 @@ phi:
 physHazards:
   ENG: --
   ESP: ''
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/2953.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/2953
 picolRegYr: WA-2024, OR-2022
 picolSLNs:
 - slnLink: --

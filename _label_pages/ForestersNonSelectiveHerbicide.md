@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Foresters'® Non-Selective Herbicide"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Glyphosate
   ESP: Glifosato
@@ -221,7 +221,7 @@ physHazards:
     \ Esta mezcla de gases podr\xEDa causar un fogonazo o explotar y causar lesiones\
     \ personales graves, si se enciende por medio de flama abierta, chispa, soplete\
     \ para soldar, cigarrillo encendido o cualquier otra fuente de ignici\xF3n."
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/70987.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/70987
 picolRegYr: WA-2023, OR-2021
 picolSLNs:
 - slnLink: --

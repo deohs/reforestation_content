@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Garlon® 4 SPECIALTY HERBICIDE"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Triclopyr
   ESP: '"Triclopyr"'
@@ -197,7 +197,7 @@ phi:
 physHazards:
   ENG: Combustible. Do not use or store the product near heat or open flame.
   ESP: Combustible. No use o almacene el producto cerca del calor o flama abierta.
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/17329.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/17329
 picolRegYr: WA-2024, OR-2022
 picolSLNs:
 - slnLink: --

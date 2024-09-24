@@ -1,7 +1,7 @@
 ---
 layout: label
 title: "Cleantraxx™ HERBICIDE"
-modified: 2024-05-01 16:35:00
+modified: 2024-09-24 11:06:00
 activeIngredients:
 - ENG: Penoxsulam
   ESP: '"Penoxsulam"'
@@ -184,10 +184,10 @@ phi:
 physHazards:
   ENG: --
   ESP: ''
-picolLabelLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/64558.pdf
+picolLabelLink: https://picol.cahnrs.wsu.edu/label/64558
 picolRegYr: WA-2024, OR-2022
 picolSLNs:
-- slnLink: http://cru66.cahe.wsu.edu/~picol/pdf/WA/64559.pdf
+- slnLink: https://picol.cahnrs.wsu.edu/label/64559
 - slnLink: http://cru66.cahe.wsu.edu/~picol/pdf/OR/72546.pdf
 - slnLink: http://cru66.cahe.wsu.edu/~picol/pdf/OR/64572.pdf
 - slnLink: http://cru66.cahe.wsu.edu/~picol/pdf/OR/72547.pdf
